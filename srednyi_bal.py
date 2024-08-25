@@ -47,4 +47,4 @@ dd = sorted_list_students[3]
 ee = sorted_list_students[4]
 # Создаем словарь по окончании всех расчетов и операций
 dict_end = dict({aa: arithmetic_mean_a, bb: arithmetic_mean_b, cc: arithmetic_mean_c, dd: arithmetic_mean_d, ee: arithmetic_mean_e})
-print(dict_end)
+print(dict_end) #При вносе других оценок конечный результат будет меняться.
